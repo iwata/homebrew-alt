@@ -17,7 +17,7 @@ class GitFlowCompletion < Formula
   homepage 'https://github.com/iwata/git-flow-completion'
 end
 
-class GitFlow < Formula
+class GitFlow2 < Formula
   url 'https://github.com/iwata/gitflow.git', :tag => '0.5.15.2'
   version '0.5.15.2'
   head 'https://github.com/iwata/gitflow.git', :branch => 'develop'
